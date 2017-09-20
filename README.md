@@ -1,7 +1,9 @@
-  SigVanity
+SegwitVanity
 ===========
 
-SigVanity is a P2SH address wallet generator fully written in python.
+## Warning: Segwit Support is currently 'Work in Progress' and not ready for use. 
+
+SegwitVanity is a P2SH-P2WPKH address wallet generator fully written in python.
 
 * Pure Python code
 * Cross-platform code
@@ -100,9 +102,6 @@ Random source for key generation initialization:
 * /dev/urandom   in Unix-like
 
 
-## To Do
-
-* Use pybitcointools for standard address generation
 
 
 Licence :
